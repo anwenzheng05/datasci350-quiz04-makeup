@@ -28,6 +28,6 @@ The `scripts/` folder holds `pull_data.py`, which Task 8 uses.
 
 ### Submission
 
-When you finish, stage and commit everything, and push it to your fork. That includes `quiz04.ipynb`, `nairobi.json` (Task 7), your edited `scripts/pull_data.py` and the two files it saves in `data/raw/` (Task 8), and `data/gbp_dec2023.csv` (Task 11). Then post your fork's link on Canvas, in the "Assignments" tab under Quiz 04 (make-up).
+When you finish, stage and commit everything, and push it to your fork. That includes `quiz04.ipynb`, `nairobi.json` (Task 7), your edited `scripts/pull_data.py` and the two files it saves in `data/raw/` (Task 8), and `data/gbp_dec2023.csv` (Task 11). Then post your fork's link on Canvas, in the "Assignments" tab under Quiz 04.
 
 Best of luck!

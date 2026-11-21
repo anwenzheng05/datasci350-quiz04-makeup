@@ -1,0 +1,12 @@
+{
+  "library": {"id": "WL-3", "name": "Woodruff Library",
+              "location": {"lat": 33.79, "lon": -84.32}},
+  "book": {"title": "Python for Data Analysis", "edition": 3, "copies": 4},
+  "updated": "2026-11-24T09:30",
+  "units": {"loan_length": "days", "fine": "USD per day"},
+  "loans": [
+    {"copy": 1, "due": "2026-11-28", "loan_length": 14},
+    {"copy": 2, "due": "2026-12-05", "loan_length": 21},
+    {"copy": 4, "due": "2026-12-12", "loan_length": 28}
+  ]
+}

@@ -4,10 +4,10 @@ import os
 import pandas as pd
 import requests
 
-INDICATOR = "SP.DYN.LE00.IN"
-COUNTRIES = "BRA;IND;NGA;USA"
-YEARS = "2000:2023"
-OUTPUT_NAME = "life_expectancy"
+INDICATOR = "SI.POV.GINI"
+COUNTRIES = "BRA;COL;PER"
+YEARS = "2010:2023"
+OUTPUT_NAME = "gini"
 
 BASE_URL = "https://api.worldbank.org/v2"
 RAW_DIR = "data/raw"
